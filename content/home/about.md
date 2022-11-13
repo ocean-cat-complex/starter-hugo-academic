@@ -1,5 +1,5 @@
 ---
-widget: test
+widget: https://fatfatcat.netlify.app
 widget_id: test1
 headless: true
 weight: 1
