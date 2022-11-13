@@ -42,7 +42,7 @@ superuser: true
 last_name: Bighetti
 role: Professor of Artificial Intelligence
 highlight_name: true
-title: Yongxiang Chen
+title: Shihao Wang
 first_name: Alice
 email: ""
 ---
