@@ -4,13 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Chen YX group # Website name
-baseURL: 'https://fatfatcat.netlify.app/' # Website URL
+baseURL: 'https://example.org/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-cn
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
