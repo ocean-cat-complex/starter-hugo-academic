@@ -1,10 +1,10 @@
 ---
-widget: https://fatfatcat.netlify.app
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
 widget_id: test1
 headless: true
 weight: 1
 title: Biography
-active: true
+active: false
 author: admin
 ---
 # This is title
